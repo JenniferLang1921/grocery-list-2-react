@@ -1,3 +1,5 @@
+This project is part of the course  React JS Full Course for Beginners by Dave Gray.  Thank you for teaching me how to do this.  https://www.youtube.com/watch?v=RVFAyFWO4go&t=314s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
